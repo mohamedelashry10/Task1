@@ -11,11 +11,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("elashry");
-            Console.WriteLine("hay");
-            Console.WriteLine("ازيك");
-            Console.WriteLine("aaaa");
-            Console.WriteLine("huda");
-            Console.WriteLine("شششششششش");
+            
         }
     }
 }
