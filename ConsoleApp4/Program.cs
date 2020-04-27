@@ -15,6 +15,7 @@ namespace ConsoleApp4
             Console.WriteLine("ازيك");
             Console.WriteLine("aaaa");
             Console.WriteLine("huda");
+            Console.WriteLine("شششششششش");
         }
     }
 }
